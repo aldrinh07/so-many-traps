@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3101fc4c-4b9a-445b-aa7f-3608fffe2403" name="Default" comment="" />
+    <ignored path="devM.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="devM" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.439846">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/myConnects/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="120" column="18" selection-start="7748" selection-end="7748" vertical-scroll-proportion="0.0" vertical-offset="1337" max-vertical-offset="2910">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/myConnects/view/main.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="14" column="14" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1065">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="mainController.js" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/myConnects/js/mainController.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="24" column="25" selection-start="919" selection-end="919" vertical-scroll-proportion="-3.670886" vertical-offset="2100" max-vertical-offset="5055">
+                  <folding>
+                    <marker date="1428282063000" expanded="true" signature="6213:7875" placeholder="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="facebookService.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/myConnects/js/facebookService.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="31" column="0" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="570">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="loginView.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/myConnects/view/loginView.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="20" column="44" selection-start="1192" selection-end="1192" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="525">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="mainController.js" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/myConnects/js/mainController.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="227" column="0" selection-start="10318" selection-end="10318" vertical-scroll-proportion="0.06036217" vertical-offset="3375" max-vertical-offset="5055">
+                  <folding>
+                    <marker date="1428282063000" expanded="true" signature="6213:7875" placeholder="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/myConnects/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="117" column="36" selection-start="2672" selection-end="2672" vertical-scroll-proportion="0.0" vertical-offset="1395" max-vertical-offset="4650">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/github-api/app.js" />
+        <option value="$PROJECT_DIR$/aaa tester/controller.js" />
+        <option value="$PROJECT_DIR$/aaa tester/app.js" />
+        <option value="$PROJECT_DIR$/aaa tester/index.html" />
+        <option value="$PROJECT_DIR$/soundCloud-api/app.js" />
+        <option value="$PROJECT_DIR$/soundCloud-api/soundService.js" />
+        <option value="$PROJECT_DIR$/github-api/style.css" />
+        <option value="$PROJECT_DIR$/soundCloud-api/mainController.js" />
+        <option value="$PROJECT_DIR$/soundCloud-api/style.css" />
+        <option value="$PROJECT_DIR$/soundCloud-api/index.html" />
+        <option value="$PROJECT_DIR$/soundCloud-api/mobileIndex.html" />
+        <option value="$PROJECT_DIR$/parseQueue/js/defaultHeaders.js" />
+        <option value="$PROJECT_DIR$/parseQueue/js/app.js" />
+        <option value="$PROJECT_DIR$/parseQueue/index.html" />
+        <option value="$PROJECT_DIR$/parseQueue/js/MainController.js" />
+        <option value="$PROJECT_DIR$/parseQueue/js/parseService.js" />
+        <option value="$PROJECT_DIR$/mini/app.js" />
+        <option value="$PROJECT_DIR$/mini/index.html" />
+        <option value="$PROJECT_DIR$/RTFM/env.js" />
+        <option value="$PROJECT_DIR$/RTFM/login/loginTemplate.html" />
+        <option value="$PROJECT_DIR$/RTFM/mainController.js" />
+        <option value="$PROJECT_DIR$/RTFM/environmentService.js" />
+        <option value="$PROJECT_DIR$/RTFM/threads/threads.html" />
+        <option value="$PROJECT_DIR$/RTFM/login/loginController.js" />
+        <option value="$PROJECT_DIR$/RTFM/app.js" />
+        <option value="$PROJECT_DIR$/RTFM/threads/threadsService.js" />
+        <option value="$PROJECT_DIR$/RTFM/threads/threadsController.js" />
+        <option value="$PROJECT_DIR$/RTFM/index.html" />
+        <option value="$PROJECT_DIR$/codingExercises.js" />
+        <option value="$PROJECT_DIR$/myConnections/js/app.js" />
+        <option value="$PROJECT_DIR$/myConnections/js/mainController.js" />
+        <option value="$PROJECT_DIR$/myConnections/index.html" />
+        <option value="$PROJECT_DIR$/myConnects/login/blankData.js" />
+        <option value="$PROJECT_DIR$/myConnects/login/loginController.js" />
+        <option value="$PROJECT_DIR$/myConnects/README.md" />
+        <option value="$PROJECT_DIR$/myConnects/login/loginView.html" />
+        <option value="$PROJECT_DIR$/angular-friends/index.html" />
+        <option value="$PROJECT_DIR$/angular-friends/FriendController.js" />
+        <option value="$PROJECT_DIR$/myConnects/bottomGridTemplate.html" />
+        <option value="$PROJECT_DIR$/html-layouts-2/second/index.html" />
+        <option value="$PROJECT_DIR$/html-layouts-2/second/style.css" />
+        <option value="$PROJECT_DIR$/myConnects/dialog1.html" />
+        <option value="$PROJECT_DIR$/myConnects/js/materialController.js" />
+        <option value="$PROJECT_DIR$/myConnects/js/app.js" />
+        <option value="$PROJECT_DIR$/myConnects/backupindex.html" />
+        <option value="$PROJECT_DIR$/myConnects/view/loginView.html" />
+        <option value="$PROJECT_DIR$/myConnects/index.html" />
+        <option value="$PROJECT_DIR$/myConnects/style.css" />
+        <option value="$PROJECT_DIR$/myConnects/view/main.html" />
+        <option value="$PROJECT_DIR$/myConnects/js/facebookService.js" />
+        <option value="$PROJECT_DIR$/myConnects/js/mainController.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="250" />
+    <option name="y" value="22" />
+    <option name="width" value="1190" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myConnects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlLayout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chatroom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="&#10;:&#10;{&#10;$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chatroom" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/its-a-trap/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/myConnects/view" />
+      <recent name="$PROJECT_DIR$/myConnects" />
+      <recent name="$PROJECT_DIR$/myConnects/templates" />
+      <recent name="$PROJECT_DIR$/mini-timeDirective/app" />
+      <recent name="$PROJECT_DIR$/chatroom" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3101fc4c-4b9a-445b-aa7f-3608fffe2403" name="Default" comment="" />
+      <created>1421519326638</created>
+      <updated>1421519326638</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="250" y="22" width="1190" height="876" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31552163" sideWeight="0.4996986" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24954791" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21471342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.305499" sideWeight="0.50030136" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299389" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/soundCloud-api/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="7" selection-start="1143" selection-end="1143" vertical-scroll-proportion="0.7967033" vertical-offset="0" max-vertical-offset="546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RTFM/env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nbaRoutes/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="12" selection-start="678" selection-end="678" vertical-scroll-proportion="0.45506692" vertical-offset="17" max-vertical-offset="540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RTFM/threads/threadsService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="431" selection-end="431" vertical-scroll-proportion="0.31578946" vertical-offset="0" max-vertical-offset="570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RTFM/login/loginTemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="165" selection-end="165" vertical-scroll-proportion="0.13416816" vertical-offset="0" max-vertical-offset="559" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RTFM/threads/threads.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="536" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RTFM/environmentService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="438" selection-end="438" vertical-scroll-proportion="0.44554454" vertical-offset="0" max-vertical-offset="606" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-userProfiles3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-userProfiles3/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-userProfiles2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="569" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingExercises.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="798" selection-end="991" vertical-scroll-proportion="0.0" vertical-offset="172" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RTFM/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="5" selection-start="330" selection-end="330" vertical-scroll-proportion="0.32178217" vertical-offset="0" max-vertical-offset="606" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RTFM/mainController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="3" selection-start="167" selection-end="167" vertical-scroll-proportion="0.15437393" vertical-offset="0" max-vertical-offset="583" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RTFM/threads/threadsController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="399" selection-end="399" vertical-scroll-proportion="0.36020583" vertical-offset="0" max-vertical-offset="583" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github-api/service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="4" selection-start="281" selection-end="450" vertical-scroll-proportion="0.20642202" vertical-offset="0" max-vertical-offset="654" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nbaRoutes/js/mainCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="641" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nbaRoutes/js/home/homeCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="16" selection-start="56" selection-end="64" vertical-scroll-proportion="0.04587156" vertical-offset="0" max-vertical-offset="654" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nbaRoutes/js/teams/teamService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="26" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nbaRoutes/js/teams/teamCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="14" selection-start="1030" selection-end="1030" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RTFM/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="94" selection-start="434" selection-end="529" vertical-scroll-proportion="0.3809524" vertical-offset="0" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nbaRoutes/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github-api/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1905" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nbaRoutes/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="8" selection-start="629" selection-end="681" vertical-scroll-proportion="0.4357798" vertical-offset="0" max-vertical-offset="654" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/HTML Boilerplate/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="20" selection-start="857" selection-end="898" vertical-scroll-proportion="-0.42179263" vertical-offset="495" max-vertical-offset="1950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myConnects/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="57" selection-start="154" selection-end="154" vertical-scroll-proportion="0.12953368" vertical-offset="0" max-vertical-offset="579" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RTFM/login/loginController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="31" selection-start="265" selection-end="265" vertical-scroll-proportion="0.17326732" vertical-offset="0" max-vertical-offset="606" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-friends/friend-data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="15" selection-start="174" selection-end="174" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="6780" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-friends/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="38" selection-start="2607" selection-end="2607" vertical-scroll-proportion="0.6904762" vertical-offset="420" max-vertical-offset="1050" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-friends/FriendController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="40" selection-start="579" selection-end="579" vertical-scroll-proportion="0.41284403" vertical-offset="0" max-vertical-offset="654" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlLayout/html-layout/first/first.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlLayout/html-layout/second/second.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlLayout/html-layout/second/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="26" selection-start="75" selection-end="75" vertical-scroll-proportion="0.071428575" vertical-offset="0" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlLayout/html-layout/second/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlLayout/html-layout/third/third.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html-layouts-2/second/second.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html-layouts-2/first/first.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html-layouts-2/first/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="641" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html-layouts-2/second/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="3882" selection-start="4689" selection-end="4689" vertical-scroll-proportion="0.36466774" vertical-offset="0" max-vertical-offset="617" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html-layouts-2/second/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="0" selection-start="1824" selection-end="1824" vertical-scroll-proportion="0.0" vertical-offset="1086" max-vertical-offset="1755" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlLayout/html-layout/first/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlLayout/html-layout/first/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myConnects/js/materialController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="0.16363636" vertical-offset="0" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myConnects/backupindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="0" selection-start="4093" selection-end="4093" vertical-scroll-proportion="-61.25" vertical-offset="0" max-vertical-offset="2415" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myConnects/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="3" selection-start="412" selection-end="412" vertical-scroll-proportion="0.34974092" vertical-offset="0" max-vertical-offset="772" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chatroom/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="12" selection-start="1075" selection-end="1075" vertical-scroll-proportion="0.56390977" vertical-offset="0" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myConnects/view/loginView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="44" selection-start="1192" selection-end="1192" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myConnects/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="120" column="18" selection-start="7748" selection-end="7748" vertical-scroll-proportion="0.0" vertical-offset="1337" max-vertical-offset="2910">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myConnects/view/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="14" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myConnects/js/facebookService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myConnects/js/mainController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="227" column="0" selection-start="10318" selection-end="10318" vertical-scroll-proportion="0.06036217" vertical-offset="3375" max-vertical-offset="5055">
+          <folding>
+            <marker date="1428282063000" expanded="true" signature="6213:7875" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myConnects/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="36" selection-start="2672" selection-end="2672" vertical-scroll-proportion="0.0" vertical-offset="1395" max-vertical-offset="4650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
